@@ -4,7 +4,7 @@ Adfin adalah tools yang berfungsi untuk mencari halaman login admin website deng
 # Cara menggunakan (Terus) 
 $ git clone https://github.com/md4fv/adfind<br>
 $ pkg install python2<br>
-$ python2 adfin.py<br>
+$ python2 adfind.py<br>
 
 # Author
 Nama   : M Daffa (Dfv47)<br>
