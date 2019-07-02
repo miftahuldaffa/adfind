@@ -1,12 +1,22 @@
-# Deskripsi
-Adfin adalah tools yang berfungsi untuk mencari halaman login admin website dengan mudah dan cepat
+# Adfind v.1.5 (@m_d4fv)
 
-# Cara menggunakan (Termux) 
-$ git clone https://github.com/md4fv/adfind<br>
-$ pkg install python2<br>
-$ python2 adfind.py<br>
+Adfind is tools for search page admin login website for fast
 
-# Author
-Nama   : M Daffa (Dfv47)<br>
-Phone  : +6282223108828<br>
-E-mail : daffamfthsn21@gmail.com<br>
+# Adfind feature
+- [x] fast search
+- [x] much wordlist
+- [x] good connection
+- [x] support for termux
+- [x] coming soon for another os
+
+# [ Installation ]
+```
+$ apt update upgrade
+$ apt install python3 git
+$ pip install requirements.txt
+$ git clone https://github.com/md4fv/adfind
+$ cd adfind
+$ python3 adfind.py
+```
+# Screenshot
+<img src="img/adfind.png" />
