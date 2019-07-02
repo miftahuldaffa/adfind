@@ -13,9 +13,9 @@ Adfind is tools for search page admin login website for fast
 ```
 $ apt update upgrade
 $ apt install python3 git
-$ pip install requirements.txt
 $ git clone https://github.com/md4fv/adfind
 $ cd adfind
+$ python3 -m pip install requirement.txt
 $ python3 adfind.py
 ```
 # Screenshot
