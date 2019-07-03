@@ -15,7 +15,7 @@ $ apt update upgrade
 $ apt install python3 git
 $ git clone https://github.com/md4fv/adfind
 $ cd adfind
-$ python3 -m pip install requirement.txt
+$ pip install -r requirement.txt
 $ python3 adfind.py
 ```
 # Screenshot
