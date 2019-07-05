@@ -16,6 +16,7 @@ $ apt install python3 git
 $ git clone https://github.com/md4fv/adfind
 $ cd adfind
 $ pip install -r requirement.txt
+$ pip install asyncio aiohttp time socket request
 $ python3 adfind.py
 ```
 # Screenshot
