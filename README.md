@@ -1,6 +1,9 @@
 # Adfind v.1.5 (dfvproject)
 
 Adfind is tools for search page admin login website for fast
+![alt text](https://img.shields.io/badge/Coded-M Daffa-blue.svg)
+![alt text](https://img.shields.io/badge/Size-143.00KB-yellow.svg)
+![alt text](https://img.shields.io/badge/Python-3-green.svg)
 
 # Adfind feature
 - [x] fast search
